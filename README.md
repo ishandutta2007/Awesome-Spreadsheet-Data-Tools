@@ -35,6 +35,7 @@ Contributions welcome! Open a PR to add or update entries. Keep descriptions fac
 - [🚀 Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
 - [🔬 Architectural Deep Dives & Ecosystem Recommendations](#-architectural-deep-dives--ecosystem-recommendations)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Community](#-support--community)
 - [📈 Star History](#--star-history)
 - [⚖️ Disclaimer & Engineering Insights](#️-disclaimer--engineering-insights)
 
@@ -168,6 +169,23 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 3. 📝 **Update [README.md](README.md)** with factual descriptions, documentation links, pricing tiers, and star count rankings.
 4. 🔍 **Verify Formatting**: Ensure tables remain sorted appropriately (SaaS by company valuation/revenue, Open-Source by GitHub stargazer count).
 5. 🚀 **Submit a Pull Request** with a concise explanation of your additions or amendments.
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Spreadsheet Data Tools**! If you find this curated directory valuable for your engineering architecture, platform stack, or spreadsheet data pipelines:
+
+- ⭐ **Star this repository** to improve discoverability for other developers and engineers!
+- 🍴 **Fork and share** with colleagues, data engineering communities, and platform teams.
+- 💬 **Join our Discord** at [discord.gg/jc4xtF58Ve](https://discord.gg/jc4xtF58Ve) to discuss spreadsheet architectures, formula engines, and parser benchmarks.
+- ☕ **Support continuous maintenance & updates**: Buy a coffee or sponsor ongoing research via the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007).
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</div>
 
 ---
 
