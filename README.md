@@ -13,6 +13,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Spreadsheet-Data-Tools?style=flat-square&color=orange" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 </div>
