@@ -35,6 +35,7 @@ Contributions welcome! Open a PR to add or update entries. Keep descriptions fac
 - [🚀 Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
 - [🔬 Architectural Deep Dives & Ecosystem Recommendations](#-architectural-deep-dives--ecosystem-recommendations)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#--star-history)
 - [⚖️ Disclaimer & Engineering Insights](#️-disclaimer--engineering-insights)
 
 ---
@@ -167,6 +168,12 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 3. 📝 **Update [README.md](README.md)** with factual descriptions, documentation links, pricing tiers, and star count rankings.
 4. 🔍 **Verify Formatting**: Ensure tables remain sorted appropriately (SaaS by company valuation/revenue, Open-Source by GitHub stargazer count).
 5. 🚀 **Submit a Pull Request** with a concise explanation of your additions or amendments.
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Spreadsheet-Data-Tools&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Spreadsheet-Data-Tools&type=date&legend=top-left)
 
 ---
 
