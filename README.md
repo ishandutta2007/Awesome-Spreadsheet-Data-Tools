@@ -24,32 +24,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Aspose.Cells](https://products.aspose.com/cells/)**  
-  **The most feature-complete commercial spreadsheet API** for .NET, Java, Python, and other platforms. Native APIs to create, edit, convert, and render Excel files with full fidelity. **All-platform family pack from $1,199**. Supports XLSX, XLS, ODS, CSV, JSON, HTML, PDF, and image export. Built-in formula calculation engine with 400+ Excel functions. **Best for enterprise applications requiring maximum format compatibility and broad platform support**.
-
-- **[Syncfusion Excel Library](https://www.syncfusion.com/excel-framework/)**  
-  **Transparent, affordable licensing with no distribution fees, per-server licensing, or royalties**. **Team license (5 developers) at $4,740** includes all document libraries plus UI controls. Supports XLS and XLSX formats with **400+ built-in functions**, charts, pivot tables, conditional formatting, data validation, and encryption. **Best for teams wanting comprehensive Excel capabilities at predictable cost**.
-
-- **[GrapeCity Documents for Excel](https://www.grapecity.com/)**  
-  Enterprise Excel API for .NET and Java with full workbook manipulation, formula calculation, and PDF export. Supports complex scenarios including pivot tables, sparklines, and custom number formats.
-
-- **[IronXL](https://ironsoftware.com/)**  
-  .NET Excel library with simple API for reading, writing, and manipulating spreadsheets. Supports XLSX, XLS, CSV, and TSV. **Best for .NET developers wanting straightforward Excel operations without complex setup**.
-
-- **[DevExpress Office File API](https://www.devexpress.com/)**  
-  Enterprise document processing library for .NET with Excel spreadsheet creation, editing, and conversion. Deep integration with DevExpress UI controls.
-
-- **[GemBox.Spreadsheet](https://www.gemboxsoftware.com/)**  
-  .NET Excel library for reading, writing, and converting spreadsheet files. Supports XLSX, XLS, CSV, HTML, PDF, and image formats.
-
-- **[SpreadsheetGear](https://www.spreadsheetgear.com/)**  
-  **Royalty-free perpetual licensing for .NET, .NET Standard, and Windows**. **Bundle at $1,799** includes .NET Framework, .NET Engine, and Windows editions with one year of updates and support. **Free no-cost license limited to 1,000 rows × 100 columns × 10 worksheets × 3 workbooks**. **Best for .NET teams wanting perpetual licensing and Windows Forms/WPF integration**.
-
-- **[Infragistics Excel Engine](https://www.infragistics.com/)**  
-  Excel creation and manipulation within the Infragistics Ultimate UI toolkit for .NET. Best for teams already using Infragistics controls.
-
-- **[EPPlus](https://www.epplussoftware.com/)**  
-  **Version 5+ uses Polyform Noncommercial / Commercial dual licensing**. **Earlier versions remain LGPL**. Feature-rich .NET library for creating advanced Excel spreadsheets with pivot tables, charts, and data validation. **Best for .NET teams that qualify for noncommercial licensing or are willing to purchase commercial licenses**.
+| Platform & Provider | Starting Tier Price | Free Tier Limit / Free Trial Plan | Core Capabilities & Highlights |
+| :--- | :--- | :--- | :--- |
+| **[Aspose.Cells](https://products.aspose.com/cells/)** <br> *(Aspose Pty Ltd / Posirion)* | **$1,199.00** one-time perpetual <br> *(Small Business, 1 dev)* or **$99.00 / mo** *(Cloud API)* | **Free Evaluation forever** (adds watermark, max 100 open workbooks) or **30-day unrestricted trial license** | Standalone spreadsheet engine for .NET, Java, Python, C++ with 400+ formula functions, full formatting, and high-fidelity PDF/image export. |
+| **[Syncfusion Excel Library](https://www.syncfusion.com/excel-framework/)** <br> *(Syncfusion, Inc.)* | **$395.00 / dev / mo** <br> *(Billed annually at $4,740 / yr for 5 devs)* | **Free Forever (Community License)** for orgs <$1M revenue & ≤5 devs; or **30-day unrestricted free trial** | Comprehensive .NET, Java, and Flutter Excel library supporting 400+ formula functions, charts, encryption, and zero server royalties. |
+| **[GrapeCity Documents for Excel](https://www.grapecity.com/)** <br> *(MESCIUS inc.)* | **$1,499.00 / dev / yr** <br> *(Developer License)* | **30-day unrestricted trial key**; unactivated mode limits workbooks to 5 sheets, 100 rows, and watermark | High-speed server-side spreadsheet API for .NET and Java with 450+ Excel functions, sparklines, conditional formatting, and pivot tables. |
+| **[IronXL](https://ironsoftware.com/)** <br> *(Iron Software LLC)* | **$749.00** one-time perpetual <br> *(Lite license, 1 dev)* | **30-day deployment trial key**; evaluation mode without key limits read/write to first 25 rows with watermark | Intuitive .NET spreadsheet library without Office Interop dependencies; reads, writes, and edits XLSX, XLS, CSV, and TSV files. |
+| **[DevExpress Office File API](https://www.devexpress.com/)** <br> *(Developer Express Inc.)* | **$999.99 / dev / yr** <br> *(Office File API Subscription)* | **30-day fully functional free trial** with complete technical support; no credit card required | Enterprise document processing library for .NET with Excel spreadsheet creation, complex formula calculations, and PDF generation. |
+| **[GemBox.Spreadsheet](https://www.gemboxsoftware.com/)** <br> *(GemBox Software d.o.o.)* | **$790.00** one-time perpetual <br> *(1 developer license)* | **Free mode forever** limited to 150 rows per sheet and 5 sheets per workbook; **30-day unrestricted trial key** on request | Fast, lightweight .NET spreadsheet component with support for XLSX, XLS, ODS, CSV, HTML, and high-fidelity PDF conversion. |
+| **[SpreadsheetGear](https://www.spreadsheetgear.com/)** <br> *(SpreadsheetGear LLC)* | **$1,199.00** perpetual <br> *(.NET Standard single dev)* | **Free evaluation forever** limited to 1,000 rows × 100 cols × 10 sheets × 3 workbooks; **30-day unrestricted trial key** | Ultra-fast royalty-free .NET spreadsheet calculation and reporting engine with rich Windows Forms, WPF, and ASP.NET controls. |
+| **[Infragistics Excel Engine](https://www.infragistics.com/)** <br> *(Infragistics, Inc.)* | **$1,295.00 / dev / yr** <br> *(Infragistics Ultimate subscription)* | **30-day fully functional free trial** without feature restrictions, includes full technical support | High-performance spreadsheet manipulation within .NET, Windows Forms, WPF, and Blazor ecosystems with native charting and filtering. |
+| **[EPPlus](https://www.epplussoftware.com/)** <br> *(EPPlus Software AB)* | **$749.00 / dev / yr** <br> *(Commercial Small Business license)* | **Free Forever** under PolyForm Noncommercial license for personal/non-profit use; **30-day commercial trial** | Robust, high-performance .NET library for creating and styling complex XLSX workbooks with rich chart, formula, and pivot table support. |
+| **[SheetJS Pro](https://sheetjs.com/pro)** <br> *(SheetJS LLC)* | **$799.00 / yr** <br> *(SheetJS Pro Developer subscription)* | **Free Forever (Community edition)** for basic read/write without styling; **30-day trial** for SheetJS Pro | Commercial edition of SheetJS adding full styling preservation, conditional formatting, password protection, and custom number formats. |
 
 ## Open-Source GitHub Projects
 
