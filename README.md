@@ -17,10 +17,19 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The global spreadsheet software and developer-first spreadsheet data tools market is currently valued at approximately **$13.5 billion to $18.2 billion**, projected to grow at a **CAGR of 11.8%** toward **$32+ billion** by the early 2030s, propelled by automated financial workflows, AI data pipelines, and headless workbook compilation.
+
+The industry exhibits **moderate overall fragmentation with a bifurcated dynamic**:
+- **Front-End Productivity Suites (Concentrated Oligopoly)**: End-user GUI spreadsheets are heavily consolidated around mega-suite ecosystems like Microsoft 365 (Excel) and Google Workspace (Sheets).
+- **Programmatic Data Tools & Headless Calculation Engines (Highly Fragmented)**: The developer API, format preservation, and headless formula evaluation layer is dynamic and moderately-to-highly fragmented rather than winner-take-all. Specialized developer libraries and cloud data spreadsheets thrive across language runtimes (.NET, Java, Python, TypeScript, Rust, Go) by solving specific high-stakes requirements such as high-fidelity XML roundtripping, non-commercial self-hosting, formula AST compilation, and multi-gigabyte streaming without memory exhaustion.
 
 ## SaaS/Hosted Platforms
 
