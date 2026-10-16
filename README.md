@@ -2,7 +2,7 @@
 
 # Awesome-Spreadsheet-Data-Tools
 
-# Top Spreadsheet Data Tools Ecosystem
+## Top Spreadsheet Data Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on XLSX Read/Write, Formula Evaluation & Workbook Format Preservation*  
