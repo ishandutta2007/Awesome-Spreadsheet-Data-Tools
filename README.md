@@ -5,6 +5,16 @@
 # 📊 Awesome-Spreadsheet-Data-Tools
 
 ## 🌟 Top Spreadsheet Data Tools Ecosystem
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Spreadsheet-Data-Tools?style=flat-square&logo=github&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Spreadsheet-Data-Tools?style=flat-square&logo=github&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Spreadsheet-Data-Tools?style=flat-square&color=orange" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Spreadsheet-Data-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
+</p>
+
 </div>
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
