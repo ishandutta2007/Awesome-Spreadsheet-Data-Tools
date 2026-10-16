@@ -2,9 +2,9 @@
 
 ![Awesome Spreadsheet Data Tools](assets/banner.svg)
 
-# Awesome-Spreadsheet-Data-Tools
+# 📊 Awesome-Spreadsheet-Data-Tools
 
-## Top Spreadsheet Data Tools Ecosystem
+## 🌟 Top Spreadsheet Data Tools Ecosystem
 </div>
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
@@ -17,36 +17,43 @@ This repository tracks notable **SaaS platforms**, **commercial developer APIs**
 
 Contributions welcome! Open a PR to add or update entries. Keep descriptions factual and link to official repositories.
 
-## Table of Contents
-- [SEO & Overview Summary](#seo--overview-summary)
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
+- [🔍 SEO & Overview Summary](#-seo--overview-summary)
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Commercial Hosted Platforms](#️-saas--commercial-hosted-platforms)
+- [🚀 Open-Source GitHub Projects (Ranked by Stars)](#-open-source-github-projects-ranked-by-stars)
+- [🔬 Architectural Deep Dives & Ecosystem Recommendations](#-architectural-deep-dives--ecosystem-recommendations)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer & Engineering Insights](#️-disclaimer--engineering-insights)
 
-## SEO & Overview Summary
+---
+
+## 🔍 SEO & Overview Summary
 
 Welcome to the comprehensive, search-optimized index of **Spreadsheet Data Tools**, **Excel Programmatic APIs**, **Headless Formula Engines**, and **Cloud Spreadsheet Platforms**. Whether you are building an automated financial ledger, parsing millions of XLSX rows in Go or Java, embedding an interactive spreadsheet canvas in React, or ensuring that custom conditional formatting and data validations survive round-trip edits without corruption, this directory provides technical comparison data to guide your architecture.
 
-### Search Keywords & Topic Tags
+### 🏷️ Search Keywords & Topic Tags
 `spreadsheet data tools`, `excel programmatic api`, `xlsx parser`, `excel reader writer`, `formula calculation engine`, `headless spreadsheet`, `sheetjs`, `easyexcel`, `excelize`, `univer`, `handsontable`, `luckysheet`, `exceljs`, `phpspreadsheet`, `openxml sdk`, `closedxml`, `ironcalc`, `hyperformula`, `calamine`, `xlsxwriter`, `xlwings`, `format preservation`, `workbook automation`, `csv data wrangling`, `financial engineering`, `data grid`.
 
-## Sector Overview & Market Dynamics
+---
+
+## 📈 Sector Overview & Market Dynamics
 
 The global spreadsheet software and developer-first spreadsheet data tools market is currently valued at approximately **$13.5 billion to $18.2 billion**, projected to grow at a **CAGR of 11.8%** toward **$32+ billion** by the early 2030s, propelled by automated financial workflows, AI data pipelines, and headless workbook compilation.
 
 The industry exhibits **moderate overall fragmentation with a bifurcated dynamic**:
-- **Front-End Productivity Suites (Concentrated Oligopoly)**: End-user GUI spreadsheets are heavily consolidated around mega-suite ecosystems like Microsoft 365 (Excel) and Google Workspace (Sheets).
-- **Programmatic Data Tools & Headless Calculation Engines (Highly Fragmented)**: The developer API, format preservation, and headless formula evaluation layer is dynamic and moderately-to-highly fragmented rather than winner-take-all. Specialized developer libraries and cloud data spreadsheets thrive across language runtimes (.NET, Java, Python, TypeScript, Rust, Go) by solving specific high-stakes requirements such as high-fidelity XML roundtripping, non-commercial self-hosting, formula AST compilation, and multi-gigabyte streaming without memory exhaustion.
+- 🏢 **Front-End Productivity Suites (Concentrated Oligopoly)**: End-user GUI spreadsheets are heavily consolidated around mega-suite ecosystems like Microsoft 365 (Excel) and Google Workspace (Sheets).
+- 🧩 **Programmatic Data Tools & Headless Calculation Engines (Highly Fragmented)**: The developer API, format preservation, and headless formula evaluation layer is dynamic and moderately-to-highly fragmented rather than winner-take-all. Specialized developer libraries and cloud data spreadsheets thrive across language runtimes (.NET, Java, Python, TypeScript, Rust, Go) by solving specific high-stakes requirements such as high-fidelity XML roundtripping, non-commercial self-hosting, formula AST compilation, and multi-gigabyte streaming without memory exhaustion.
 
-## SaaS/Hosted Platforms
+---
+
+## ☁️ SaaS & Commercial Hosted Platforms
 
 The following commercial SaaS products, enterprise developer APIs, and cloud platforms provide programmatic Excel manipulation, formula engines, and collaborative spreadsheet data operations.
 
 > *Sorted descending by company size (valuation / annual revenue).*
 
-| Platform & Provider | Company Size (Valuation / Revenue) | Starting Tier Price | Free Tier Limit / Free Trial Plan | Core Capabilities & Highlights |
+| 🏢 Platform & Provider | 💰 Company Size (Valuation / Revenue) | 💳 Starting Tier Price | 🎁 Free Tier Limit / Free Trial Plan | ✨ Core Capabilities & Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Airtable](https://airtable.com/)** <br> *(Formagrid Inc.)* | **~$11.7 Billion** valuation <br> *($1.36B raised)* | **$20.00 / seat / mo** <br> *(Team plan billed annually)* | **Free Forever plan**: Unlimited bases, 1,000 records per base, 1 GB attachments, 100 automation runs/mo | Relational spreadsheet-database hybrid with programmatic REST API, automation webhooks, and interface designer. |
 | **[Smartsheet](https://www.smartsheet.com/)** <br> *(Smartsheet Inc. / Blackstone)* | **$8.4 Billion** valuation <br> *(Acquired by Blackstone/Vista)* | **$9.00 / user / mo** <br> *(Pro plan billed annually)* | **30-day fully functional trial**; converts to **Free plan forever** for 1 user with up to 2 sheets after trial | Enterprise collaborative work management and spreadsheet workflows with automation, Gantt timelines, and REST APIs. |
@@ -64,13 +71,15 @@ The following commercial SaaS products, enterprise developer APIs, and cloud pla
 | **[GemBox.Spreadsheet](https://www.gemboxsoftware.com/)** <br> *(GemBox Software d.o.o.)* | **~$5M – $12M** <br> annual revenue | **$790.00** one-time perpetual <br> *(1 developer license)* | **Free mode forever** limited to 150 rows per sheet and 5 sheets per workbook; **30-day unrestricted trial key** on request | Fast, lightweight .NET spreadsheet component with support for XLSX, XLS, ODS, CSV, HTML, and high-fidelity PDF conversion. |
 | **[EPPlus](https://www.epplussoftware.com/)** <br> *(EPPlus Software AB)* | **~$5M – $10M** <br> annual revenue | **$749.00 / dev / yr** <br> *(Commercial Small Business license)* | **Free Forever** under PolyForm Noncommercial license for personal/non-profit use; **30-day commercial trial** | Robust, high-performance .NET library for creating and styling complex XLSX workbooks with rich chart, formula, and pivot table support. |
 
-## Open-Source GitHub Projects
+---
+
+## 🚀 Open-Source GitHub Projects (Ranked by Stars)
 
 The following open-source libraries, headless engines, and interactive web spreadsheet components power programmatic spreadsheet reading, writing, styling, and formula evaluation.
 
 > *Sorted descending by exact GitHub stargazer count.*
 
-| Rank | Project & Repository | GitHub Stars (Live Badge) | Primary Language | Core Focus & Architecture |
+| 🏆 Rank | 📦 Project & Repository | ⭐ GitHub Stars (Live Badge) | 💻 Primary Language | 🎯 Core Focus & Architecture |
 | :---: | :--- | :---: | :--- | :--- |
 | **1** | [**SheetJS (xlsx)**](https://github.com/SheetJS/sheetjs) | [![GitHub_Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers) | JavaScript / TypeScript | The most downloaded spreadsheet data parser in the JS ecosystem; reads/writes XLSX, XLS, CSV, ODS with high parsing speed. |
 | **2** | [**EasyExcel**](https://github.com/alibaba/easyexcel) | [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/easyexcel?style=social&color=white)](https://github.com/alibaba/easyexcel/stargazers) | Java | Alibaba's high-throughput, low-memory Excel engine; streams millions of rows without OutOfMemoryError via disk buffering. |
@@ -101,7 +110,9 @@ The following open-source libraries, headless engines, and interactive web sprea
 | **27** | [**Formula.js**](https://github.com/handsontable/formula.js) | [![GitHub_Stars](https://img.shields.io/github/stars/handsontable/formula.js?style=social&color=white)](https://github.com/handsontable/formula.js/stargazers) | JavaScript | Comprehensive JavaScript implementation of Microsoft Excel formula functions for web apps and calculation engines. |
 | **28** | [**@bilig/headless**](https://github.com/proompteng/bilig) | [![GitHub_Stars](https://img.shields.io/github/stars/proompteng/bilig?style=social&color=white)](https://github.com/proompteng/bilig/stargazers) | TypeScript / Node.js | TypeScript WorkPaper runtime for backend microservices and AI coding agents to verify spreadsheet formulas, mutations, and roundtrips. |
 
-### Architectural Deep Dives & Ecosystem Recommendations
+---
+
+### 🔬 Architectural Deep Dives & Ecosystem Recommendations
 
 - **[SheetJS (xlsx)](https://github.com/SheetJS/sheetjs)** [![GitHub_Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers) `JavaScript / TypeScript`  
   **The ubiquitous standard for parsing and data conversion.** Downloaded over 2 million times weekly on npm. Excellent for ingesting heterogeneous spreadsheet files or generating basic CSV/XLSX exports.  
@@ -134,22 +145,28 @@ The following open-source libraries, headless engines, and interactive web sprea
 - **[xlwings](https://github.com/xlwings/xlwings)** [![GitHub_Stars](https://img.shields.io/github/stars/xlwings/xlwings?style=social&color=white)](https://github.com/xlwings/xlwings/stargazers) `Python`  
   **The Python-to-Excel bridge.** Ideal for automating financial workbooks, running Pandas data frames directly into spreadsheets, and replacing legacy VBA macros with modern Python code.
 
-## How to Contribute
+---
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+## 🤝 How to Contribute
 
-Star the repo if you find it useful!
+Contributions are warmly welcomed! Help keep this directory current, accurate, and valuable for engineers worldwide:
 
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Spreadsheet data tools differ significantly in format preservation, formula evaluation, and licensing model. **A 2026 independent test found that xlsx-populate preserved data validations, cross-sheet references, and drawings while ExcelJS duplicated validations and SheetJS lost them entirely**. **ExcelJS and SheetJS cannot calculate formulas** — they store formulas and supplied results only. **EPPlus version 5+ is commercial/Polyform Noncommercial** — earlier LGPL versions remain available. **SpreadsheetGear offers royalty-free perpetual licensing** with a free tier limited to 1,000 rows × 100 columns × 10 worksheets × 3 workbooks.
-- Self-hosted open-source solutions require proper testing against your specific workbook features (validations, drawings, conditional formatting) before production deployment.
+1. 🍴 **Fork the Repository** on GitHub.
+2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-tool-or-saas`).
+3. 📝 **Update [README.md](README.md)** with factual descriptions, documentation links, pricing tiers, and star count rankings.
+4. 🔍 **Verify Formatting**: Ensure tables remain sorted appropriately (SaaS by company valuation/revenue, Open-Source by GitHub stargazer count).
+5. 🚀 **Submit a Pull Request** with a concise explanation of your additions or amendments.
 
 ---
 
-**Made for developers, data engineers, and anyone working with Excel files programmatically.**  
-Let's make spreadsheet data tools more open, format-preserving, and developer-friendly.
+## ⚖️ Disclaimer & Engineering Insights
+
+- 📌 **Community Curated**: This is an independent, community-curated research collection and does not constitute an endorsement of any commercial platform or library. Software pricing, feature tiers, and API limits are subject to change by respective vendors.
+- 🧪 **Format Preservation & Formula Calculation Testing**: Spreadsheet data tools differ fundamentally in XML parsing architectures. Independent testing has shown that `xlsx-populate` preserves complex data validations, drawings, and cross-sheet dropdowns during edits, while `SheetJS` community edition strips validations and styles, and `ExcelJS` can duplicate rules on multi-range reads.
+- ⚙️ **Production Recommendation**: Always benchmark candidate libraries against your exact workbook specifications (e.g., conditional formatting, formula dependency depth, memory constraints during streaming) before production rollout.
+
+---
+
+<div align="center">
+  <b>Built with ❤️ for software engineers, data architects, and spreadsheet platform builders worldwide.</b>
+</div>
