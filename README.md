@@ -92,7 +92,7 @@ The following open-source libraries, headless engines, and interactive web sprea
 
 > *Sorted descending by exact GitHub stargazer count.*
 
-| 🏆 Rank | 📦 Project & Repository | ⭐ GitHub Stars (Live Badge) | 💻 Primary Language | 🎯 Core Focus & Architecture |
+| 🏆 Rank | 📦 Project & Repository | ⭐ GitHub_Stars (Live Badge) | 💻 Primary Language | 🎯 Core Focus & Architecture |
 | :---: | :--- | :---: | :--- | :--- |
 | **1** | [**SheetJS (xlsx)**](https://github.com/SheetJS/sheetjs) | [![GitHub_Stars](https://img.shields.io/github/stars/SheetJS/sheetjs?style=social&color=white)](https://github.com/SheetJS/sheetjs/stargazers) | JavaScript / TypeScript | The most downloaded spreadsheet data parser in the JS ecosystem; reads/writes XLSX, XLS, CSV, ODS with high parsing speed. |
 | **2** | [**EasyExcel**](https://github.com/alibaba/easyexcel) | [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/easyexcel?style=social&color=white)](https://github.com/alibaba/easyexcel/stargazers) | Java | Alibaba's high-throughput, low-memory Excel engine; streams millions of rows without OutOfMemoryError via disk buffering. |
@@ -166,7 +166,7 @@ Contributions are warmly welcomed! Help keep this directory current, accurate, a
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-tool-or-saas`).
-3. 📝 **Update [README.md](README.md)** with factual descriptions, documentation links, pricing tiers, and star count rankings.
+3. 📝 **Update [README.md](README.md)** with factual descriptions, documentation links, pricing tiers, and Stars_Count rankings.
 4. 🔍 **Verify Formatting**: Ensure tables remain sorted appropriately (SaaS by company valuation/revenue, Open-Source by GitHub stargazer count).
 5. 🚀 **Submit a Pull Request** with a concise explanation of your additions or amendments.
 
